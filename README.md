@@ -1,2 +1,2 @@
-# cs50
+# CS50
 My working space for CS50.
